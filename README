@@ -1,0 +1,3 @@
+pyBrain is an attempt to apply Hebbian Learning to a neural network.
+v1 an v2 contain some rough ideas put together in an attempt to test things.
+The pyBrain_MNIST is the final product (still very rough, mind you) in which the network is randomly initialized, and learns to understand different digits.
